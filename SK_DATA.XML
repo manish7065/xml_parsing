@@ -1,0 +1,2481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legis:legislation xmlns="urn:x-lexisnexis:content:default:mastering:1"
+                   xmlns:cfi="http://www.lexisnexis.com/xmlschemas/content/shared/cite-finding-information/1/"
+                   xmlns:classify="urn:x-lexisnexis:content:classify:mastering:1"
+                   xmlns:courtrule="urn:x-lexisnexis:content:courtrule:mastering:1"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/"
+                   xmlns:doc="urn:x-lexisnexis:content:documentlevelmetadata:mastering:1"
+                   xmlns:form="urn:x-lexisnexis:content:form:mastering:1"
+                   xmlns:globalentity="urn:x-lexisnexis:content:identified-entities:global:1"
+                   xmlns:guid="urn:x-lexisnexis:content:guid:global:1"
+                   xmlns:jurisinfo="urn:x-lexisnexis:content:jurisdiction-info:mastering:1"
+                   xmlns:legis="urn:x-lexisnexis:content:legislation:mastering:1"
+                   xmlns:legisbr="urn:x-lexisnexis:content:legislativebranch:mastering:1"
+                   xmlns:legishist="urn:x-lexisnexis:content:legislation-history:mastering:1"
+                   xmlns:lnci="http://www.lexisnexis.com/xmlschemas/content/shared/citations/1/"
+                   xmlns:lntbl="urn:x-lexisnexis:content:default:lexisnexis-table-extensions:mastering:1"
+                   xmlns:meta="urn:x-lexisnexis:content:metadata:mastering:1"
+                   xmlns:mncrdocmeta="urn:x-lexisnexis:content:mncrdocmeta:mastering:1"
+                   xmlns:note="urn:x-lexisnexis:content:notes:mastering:1"
+                   xmlns:primlaw="urn:x-lexisnexis:content:primarylaw:mastering:1"
+                   xmlns:primlawhist="urn:x-lexisnexis:content:primarylaw-history:mastering:1"
+                   xmlns:proc="urn:x-lexisnexis:content:process-elements:mastering:1"
+                   xmlns:ref="urn:x-lexisnexis:content:reference:mastering:1"
+                   xmlns:regulation="urn:x-lexisnexis:content:regulation:mastering:1"
+                   xmlns:toc="urn:x-lexisnexis:content:toc:mastering:1"
+                   xml:id="VIC_ACT_10003_LEG_INFO"
+                   guid:guid="urn:contentItem:58X6-KXW1-F5KY-B3D4-00000-00">
+    <legis:content>
+        <legis:information>
+            <jurisinfo:legislativeBodyInformation>
+                <legisbr:legislature />
+            </jurisinfo:legislativeBodyInformation>
+            <legis:legislationInformation number="10003">
+                <legis:legislationType typeCode="legislativeBill"
+                                       typeCodeScheme="urn:contentitem:bill" />
+                <legis:statusHistoryGroup>
+                    <legis:statusHistory>
+                        <legis:status statusCode="uptodate"
+                                      statusCodeScheme="urn:contentitem:statusType">
+                            <startDate day="---01"
+                                       month="--07"
+                                       year="2007"
+                                       normalizedDate="2007-07-01">
+                                <dateText>1 July 2007</dateText>
+                            </startDate>
+                        </legis:status>
+                    </legis:statusHistory>
+                    <legis:statusHistory>
+                        <legis:status statusCode="consolidated"
+                                      statusCodeScheme="urn:contentitem:statusType">
+                            <startDate day="---01"
+                                       month="--07"
+                                       year="2007"
+                                       normalizedDate="2007-07-01">
+                                <dateText>1 July 2007</dateText>
+                                <comment type="other">
+                                    <p>
+                                        <break breakType="line" />
+                                        <emphasis style="bold">Consolidated as in force on <date>
+                                            <dateText>1 July 2007</dateText>
+                                        </date> and <ref:link service="document">
+                                            <ref:marker>remains current to</ref:marker>
+                                            <ref:locator>
+                                                <ref:locatorKey>
+                                                    <ref:keyName name="DOC-ID" />
+                                                    <ref:keyValue value="VICLEG_STATUS" />
+                                                </ref:locatorKey>
+                                            </ref:locator>
+                                        </ref:link> the date of the last Government Gazette.</emphasis>
+                                    </p>
+                                </comment>
+                            </startDate>
+                        </legis:status>
+                    </legis:statusHistory>
+                </legis:statusHistoryGroup>
+                <legis:fullTitle>An Act to require certain Public Authorities to pay Dividends to the State, to amend the <emphasis style="bold">Public Authorities (Contributions) Act 1966</emphasis>, the <emphasis style="bold">Public Authorities (Contributions) (Amendment) Act 1983</emphasis> and the <emphasis style="bold">Port of Melbourne Authority Act 1958</emphasis> and for other purposes.</legis:fullTitle>
+                <legis:shortTitle>PUBLIC AUTHORITIES (DIVIDENDS) ACT 1983</legis:shortTitle>
+            </legis:legislationInformation>
+        </legis:information>
+        <legis:hierarchy guid:guid="urn:contentItem:68G5-RHC3-MB33-V3WN-00000-00"
+                         type="publicAct"
+                         xml:id="VIC_ACT_10003_LEGITEM">
+            <legis:hierarchyContent guid:guid="urn:contentItem:68G5-RHD3-MB33-Y146-00000-00"
+                                    xml:id="VIC_ACT_10003_LEGITEMCONTENT">
+                <legis:hierarchy guid:guid="urn:contentItem:68WR-R6D3-MB28-B0RP-00000-00"
+                                 type="unclassified"
+                                 xml:id="VIC_ACT_10003_SECTIONLIST">
+                    <legis:hierarchyContent guid:guid="urn:contentItem:68WR-R6G3-MB28-B0S3-00000-00"
+                                            xml:id="VIC_ACT_10003_SECTIONLISTCONTENT">
+                        <legis:lawTextComponent type="paragraph">
+                            <legis:body>
+                                <p>For further information, please select from the following:</p>
+                                <p>
+                                    <ref:link>
+                                        <ref:marker>List of Provisions</ref:marker>
+                                        <ref:locator anchorIdRef="VIC_ACT_10003_PROVLIST" />
+                                    </ref:link>  |  <ref:link service="document">
+                                        <ref:marker>Legislative History</ref:marker>
+                                        <ref:locator anchorIdRef="VIC_ACT_10003_LEGHIST">
+                                            <ref:locatorKey>
+                                                <ref:keyName name="DOC-ID" />
+                                                <ref:keyValue value="" />
+                                            </ref:locatorKey>
+                                        </ref:locator>
+                                    </ref:link>  |  <ref:link>
+                                        <ref:marker>Historical Versions</ref:marker>
+                                        <ref:locator anchorIdRef="VIC_ACT_10003_LAWNOWHISTORICALVERSIONS" />
+                                    </ref:link>  |  <ref:link service="document">
+                                        <ref:marker>Defined Terms</ref:marker>
+                                        <ref:locator anchorIdRef="VIC_ACT_10003_DEFLIST">
+                                            <ref:locatorKey>
+                                                <ref:keyName name="DOC-ID" />
+                                                <ref:keyValue value="" />
+                                            </ref:locatorKey>
+                                        </ref:locator>
+                                    </ref:link>
+                                </p>
+                            </legis:body>
+                        </legis:lawTextComponent>
+                    </legis:hierarchyContent>
+                </legis:hierarchy>
+                <legis:hierarchy guid:guid="urn:contentItem:68WR-R6F3-MB28-B0RT-00000-00"
+                                 type="unclassified"
+                                 xml:id="VIC_ACT_10003_SUBLEG">
+                    <legis:hierarchyContent guid:guid="urn:contentItem:68WR-R6F3-MB28-B0RV-00000-00"
+                                            xml:id="VIC_ACT_10003_SUBLEGCONTENT">
+                        <heading>
+                            <title>Subordinate Legislation</title>
+                        </heading>
+                        <legis:lawTextComponent type="paragraph">
+                            <legis:body>
+                                <p>
+                                    <lnci:cite type="legislation">
+                                        <lnci:content>
+                                            <emphasis style="roman">
+                                                <ref:link service="document"
+                                                          status="repealed">
+                                                    <ref:marker>PUBLIC AUTHORITIES (DIVIDENDS) REGULATIONS 1993</ref:marker>
+                                                    <ref:locator anchorIdRef="VIC_REG_1993-39">
+                                                        <ref:locatorKey>
+                                                            <ref:keyName name="DOC-ID" />
+                                                            <ref:keyValue value="" />
+                                                        </ref:locatorKey>
+                                                    </ref:locator>
+                                                </ref:link>
+                                            </emphasis>
+                                        </lnci:content>
+                                    </lnci:cite>
+                                </p>
+                                <p>
+                                    <lnci:cite type="legislation">
+                                        <lnci:content>
+                                            <emphasis style="roman">
+                                                <ref:link service="document">
+                                                    <ref:marker>PUBLIC AUTHORITIES (DIVIDENDS) REGULATIONS 2003</ref:marker>
+                                                    <ref:locator anchorIdRef="VIC_REG_2003-19">
+                                                        <ref:locatorKey>
+                                                            <ref:keyName name="DOC-ID" />
+                                                            <ref:keyValue value="" />
+                                                        </ref:locatorKey>
+                                                    </ref:locator>
+                                                </ref:link>
+                                            </emphasis>
+                                        </lnci:content>
+                                    </lnci:cite>
+                                </p>
+                            </legis:body>
+                        </legis:lawTextComponent>
+                    </legis:hierarchyContent>
+                </legis:hierarchy>
+                <legis:hierarchy guid:guid="urn:contentItem:68VF-PD63-MB57-40BK-00000-00"
+                                 type="unclassified"
+                                 xml:id="VIC_ACT_10003_HISTVERSION">
+                    <legis:hierarchyContent guid:guid="urn:contentItem:68VF-PD63-MB57-40BF-00000-00"
+                                            xml:id="VIC_ACT_10003_HISTVERSIONCONTENT">
+                        <primlawhist:history>
+                            <primlawhist:historyGroup xml:id="VIC_ACT_10003_LAWNOWHISTORICALVERSIONS">
+                                <heading>
+                                    <title>Historical Versions</title>
+                                </heading>
+                                <primlawhist:historyItem>
+                                    <p>
+                                        <table frame="none">
+                                            <tgroup cols="2">
+                                                <colspec colname="c1"
+                                                         colnum="1"
+                                                         colwidth="3*" />
+                                                <colspec colname="c2"
+                                                         colnum="2"
+                                                         colwidth="12*" />
+                                                <tbody>
+                                                    <row>
+                                                        <entry namest="c1"
+                                                               nameend="c2">
+                                                            <p>2006</p>
+                                                        </entry>
+                                                    </row>
+                                                    <row>
+                                                        <entry colname="c1" />
+                                                        <entry colname="c2">
+                                                            <p>
+                                                                <ref:link service="document">
+                                                                    <ref:marker>11/10/2006 to 30/6/2007</ref:marker>
+                                                                    <ref:locator anchorIdRef="VIC_ACT_10003_20061011">
+                                                                        <ref:locatorKey>
+                                                                            <ref:keyName name="DOC-ID" />
+                                                                            <ref:keyValue value="" />
+                                                                        </ref:locatorKey>
+                                                                    </ref:locator>
+                                                                </ref:link>
+                                                            </p>
+                                                        </entry>
+                                                    </row>
+                                                    <row>
+                                                        <entry namest="c1"
+                                                               nameend="c2">
+                                                            <p>2003</p>
+                                                        </entry>
+                                                    </row>
+                                                    <row>
+                                                        <entry colname="c1" />
+                                                        <entry colname="c2">
+                                                            <p>
+                                                                <ref:link service="document">
+                                                                    <ref:marker>3/11/2003 to 10/10/2006</ref:marker>
+                                                                    <ref:locator anchorIdRef="VIC_ACT_10003_20031103">
+                                                                        <ref:locatorKey>
+                                                                            <ref:keyName name="DOC-ID" />
+                                                                            <ref:keyValue value="" />
+                                                                        </ref:locatorKey>
+                                                                    </ref:locator>
+                                                                </ref:link>
+                                                            </p>
+                                                        </entry>
+                                                    </row>
+                                                    <row>
+                                                        <entry namest="c1"
+                                                               nameend="c2">
+                                                            <p>1995</p>
+                                                        </entry>
+                                                    </row>
+                                                    <row>
+                                                        <entry colname="c1" />
+                                                        <entry colname="c2">
+                                                            <p>
+                                                                <ref:link service="document">
+                                                                    <ref:marker>21/6/1995 to 2/11/2003</ref:marker>
+                                                                    <ref:locator anchorIdRef="VIC_ACT_10003_19950621">
+                                                                        <ref:locatorKey>
+                                                                            <ref:keyName name="DOC-ID" />
+                                                                            <ref:keyValue value="" />
+                                                                        </ref:locatorKey>
+                                                                    </ref:locator>
+                                                                </ref:link>
+                                                            </p>
+                                                        </entry>
+                                                    </row>
+                                                </tbody>
+                                            </tgroup>
+                                        </table>
+                                    </p>
+                                </primlawhist:historyItem>
+                            </primlawhist:historyGroup>
+                        </primlawhist:history>
+                    </legis:hierarchyContent>
+                </legis:hierarchy>
+                <legis:hierarchy guid:guid="urn:contentItem:68G5-RHD3-MB33-Y144-00000-00"
+                                 type="unclassified"
+                                 xml:id="VIC_ACT_10003_TOC">
+                    <legis:hierarchyContent guid:guid="urn:contentItem:68G5-RHD3-MB33-Y147-00000-00"
+                                            xml:id="VIC_ACT_10003_TOCCONTENT">
+                        <toc:toc xml:id="VIC_ACT_10003_PROVLIST">
+                            <heading>
+                                <title>List of provisions</title>
+                            </heading>
+                            <toc:tocEntry>
+                                <heading />
+                                <toc:tocEntry leveltype="section"
+                                              ref:locatorKey=""
+                                              ref:locatorKeyProtocol="DOC-ID"
+                                              xml:id="VIC_ACT_10003_TOC_PROV1"
+                                              anchorIdRef="VIC_ACT_10003_PROV1">
+                                    <heading>
+                                        <designator value="1">1</designator>
+                                        <title>Short title</title>
+                                    </heading>
+                                </toc:tocEntry>
+                                <toc:tocEntry leveltype="section"
+                                              ref:locatorKey=""
+                                              ref:locatorKeyProtocol="DOC-ID"
+                                              xml:id="VIC_ACT_10003_TOC_PROV2"
+                                              anchorIdRef="VIC_ACT_10003_PROV2">
+                                    <heading>
+                                        <designator value="2">2</designator>
+                                        <title>Commencement</title>
+                                    </heading>
+                                </toc:tocEntry>
+                                <toc:tocEntry leveltype="section"
+                                              ref:locatorKey=""
+                                              ref:locatorKeyProtocol="DOC-ID"
+                                              xml:id="VIC_ACT_10003_TOC_PROV3"
+                                              anchorIdRef="VIC_ACT_10003_PROV3">
+                                    <heading>
+                                        <designator value="3">3</designator>
+                                        <title>Objective of the Act</title>
+                                    </heading>
+                                </toc:tocEntry>
+                                <toc:tocEntry leveltype="section"
+                                              ref:locatorKey=""
+                                              ref:locatorKeyProtocol="DOC-ID"
+                                              xml:id="VIC_ACT_10003_TOC_PROV4"
+                                              anchorIdRef="VIC_ACT_10003_PROV4">
+                                    <heading>
+                                        <designator value="4">4</designator>
+                                        <title>Definitions</title>
+                                    </heading>
+                                </toc:tocEntry>
+                                <toc:tocEntry leveltype="section"
+                                              ref:locatorKey=""
+                                              ref:locatorKeyProtocol="DOC-ID"
+                                              xml:id="VIC_ACT_10003_TOC_PROV5"
+                                              anchorIdRef="VIC_ACT_10003_PROV5">
+                                    <heading>
+                                        <designator value="5">5</designator>
+                                        <title>Annual dividends to be paid by public authorities to Consolidated Fund</title>
+                                    </heading>
+                                </toc:tocEntry>
+                                <toc:tocEntry leveltype="section"
+                                              ref:locatorKey=""
+                                              ref:locatorKeyProtocol="DOC-ID"
+                                              xml:id="VIC_ACT_10003_TOC_PROV6"
+                                              anchorIdRef="VIC_ACT_10003_PROV6">
+                                    <heading>
+                                        <designator value="6">6</designator>
+                                        <title>Reporting of dividends</title>
+                                    </heading>
+                                </toc:tocEntry>
+                                <toc:tocEntry leveltype="section"
+                                              ref:locatorKey=""
+                                              ref:locatorKeyProtocol="DOC-ID"
+                                              xml:id="VIC_ACT_10003_TOC_PROV6A"
+                                              anchorIdRef="VIC_ACT_10003_PROV6A">
+                                    <heading>
+                                        <designator value="6a">6A</designator>
+                                        <title>Regulations</title>
+                                    </heading>
+                                </toc:tocEntry>
+                            </toc:tocEntry>
+                            <toc:tocEntry leveltype="section"
+                                          ref:locatorKey=""
+                                          ref:locatorKeyProtocol="DOC-ID"
+                                          xml:id="VIC_ACT_10003_TOC_NOTES"
+                                          anchorIdRef="VIC_ACT_10003_NOTES">
+                                <heading>
+                                    <title>ENDNOTES</title>
+                                </heading>
+                            </toc:tocEntry>
+                        </toc:toc>
+                    </legis:hierarchyContent>
+                </legis:hierarchy>
+                <legis:hierarchy type="unclassified"
+                                 guid:guid="urn:contentItem:58X6-KXW1-F5KY-B3D6-00000-00"
+                                 xml:id="VIC_ACT_10003_BODY">
+                    <legis:hierarchyContent guid:guid="urn:contentItem:68G5-RHD3-MB33-Y145-00000-00"
+                                            xml:id="VIC_ACT_10003_BODYCONTENT">
+                        <legis:hierarchy type="unclassified"
+                                         guid:guid="urn:contentItem:58X6-KXW1-F5KY-B3D5-00000-00"
+                                         xml:id="VIC_ACT_10003_LEG_PREAMBLE">
+                            <legis:hierarchyContent guid:guid="urn:contentItem:68G5-RHD3-MB33-Y148-00000-00"
+                                                    xml:id="VIC_ACT_10003_LEG_PREAMBLECONTENT">
+                                <legis:preliminary>
+                                    <legis:preamble xml:id="VIC_ACT_10003_ENACT">
+                                        <legis:lawTextComponent type="unclassified">
+                                            <legis:body>
+                                                <p>
+                                                    <emphasis style="bold">BE IT ENACTED by the Queen's Most Excellent Majesty by and with the advice and consent of the Legislative Council and the Legislative Assembly of Victoria in this present Parliament assembled and by the authority of the same as follows (that is to say):</emphasis>
+                                                </p>
+                                            </legis:body>
+                                        </legis:lawTextComponent>
+                                    </legis:preamble>
+                                </legis:preliminary>
+                            </legis:hierarchyContent>
+                            <doc:metadata documentContentCountry="AU">
+                                <mncrdocmeta:chunkinfo>
+                                    <mncrdocmeta:lnlni lnlni="58X6-KXW1-F5KY-B3D5-00000-00" />
+                                    <mncrdocmeta:version version="00" />
+                                    <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+                                    <mncrdocmeta:collectioninfo>
+                                        <mncrdocmeta:collectionid rci="00" />
+                                        <mncrdocmeta:collectionhierarchy hierarchy="" />
+                                    </mncrdocmeta:collectioninfo>
+                                    <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                                              sys-load-date="2023-09-18T08:03:47" />
+                                </mncrdocmeta:chunkinfo>
+                                <dc:metadata>
+                                    <dc:title>             Enactment           </dc:title>
+                                    <dc:identifier meta:identifierScheme="DOC-ID">0065-VIC_ACT_10003_LEG_PREAMBLE</dc:identifier>
+                                    <dc:identifier meta:identifierScheme="LNI">58X6-KXW1-F5KY-B3D5-00000-00</dc:identifier>
+                                    <dc:source meta:sourceScheme="productContentSetIdentifier">267884</dc:source>
+                                    <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+                                    <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+                                </dc:metadata>
+                                <currencyStatement>Consolidated as in force on <date>
+                                    <dateText>1 July 2007</dateText>
+                                </date>
+                            </currencyStatement>
+                            <classify:classification classScheme="selector">
+                                <classify:classItem>
+                                    <classify:classItemIdentifier>
+                                        <classify:className>act</classify:className>
+                                    </classify:classItemIdentifier>
+                                </classify:classItem>
+                            </classify:classification>
+                            <classify:classification classScheme="lbu-subj">
+                                <classify:classItem>
+                                    <classify:classItemIdentifier>
+                                        <classify:classCode normval="lawnow345" />
+                                    </classify:classItemIdentifier>
+                                </classify:classItem>
+                            </classify:classification>
+                            <doc:sourceSequenceNumber sequenceType="bookOrder">693825953</doc:sourceSequenceNumber>
+                            <doc:alternateRenditions>
+                                <doc:alternateRendition key="fulltext">
+                                    <ref:link service="attachment">
+                                        <ref:marker role="label">PDF version of this Act</ref:marker>
+                                        <ref:locator>
+                                            <ref:locatorKey>
+                                                <ref:keyName name="attachment-key" />
+                                                <ref:keyValue value="" />
+                                            </ref:locatorKey>
+                                            <ref:locatorParameters>
+                                                <proc:parameter name="componentseq"
+                                                                value="1" />
+                                                <proc:parameter name="attachment-type"
+                                                                value="pdf" />
+                                                <proc:parameter name="attachment-smi"
+                                                                value="12638" />
+                                            </ref:locatorParameters>
+                                        </ref:locator>
+                                    </ref:link>
+                                </doc:alternateRendition>
+                            </doc:alternateRenditions>
+                            <doc:sourceDocumentInformation source="lbu-meta">
+                                <metadata>
+                                    <metadataItem name="dpsi"
+                                                  value="0065" />
+                                    <metadataItem name="lbu-sourcename"
+                                                  value="LawNow Legislation Vic - - Legislation" />
+                                    <metadataItem name="split"
+                                                  value="true" />
+                                    <metadataItem name="parent-docid"
+                                                  value="VIC_ACT_10003" />
+                                    <metadataItem name="juris"
+                                                  value="VIC" />
+                                    <metadataItem name="legyear"
+                                                  value="" />
+                                    <metadataItem name="isrepealed"
+                                                  value="no" />
+                                    <metadataItem name="is_assents"
+                                                  value="no" />
+                                    <metadataItem name="assent_date"
+                                                  value="" />
+                                    <metadataItem name="is_commencements"
+                                                  value="no" />
+                                    <metadataItem name="is_current"
+                                                  value="yes" />
+                                    <metadataItem name="act_number"
+                                                  value="10003" />
+                                    <metadataItem name="subjectterm"
+                                                  value="345" />
+                                    <metadataItem name="legitemDocumentOrder"
+                                                  value="otherLegitemDocument" />
+                                </metadata>
+                            </doc:sourceDocumentInformation>
+                        </doc:metadata>
+                    </legis:hierarchy>
+                    <legis:hierarchy type="unclassified"
+                                     guid:guid="urn:contentItem:68G5-RHD3-MB33-Y149-00000-00"
+                                     xml:id="VIC_ACT_10003_MAIN">
+                        <legis:hierarchyContent guid:guid="urn:contentItem:68G5-RHD3-MB33-Y14B-00000-00"
+                                                xml:id="VIC_ACT_10003_MAINCONTENT">
+                            <legis:section guid:guid="urn:contentItem:68G5-RH93-MB33-X0TC-00000-00"
+                                           xml:id="VIC_ACT_10003_PROV1">
+                                <legis:sectionContent guid:guid="urn:contentItem:68G5-RHD3-MB33-Y14C-00000-00"
+                                                      xml:id="VIC_ACT_10003_PROV1_CONTENT">
+                                    <heading>
+                                        <designator value="1">
+                                            <emphasis style="bold">1</emphasis>
+                                        </designator>
+                                        <title isInline="0"
+                                               align="left">
+                                            <emphasis style="bold">Short title</emphasis>
+                                        </title>
+                                    </heading>
+                                    <legis:lawTextComponent type="paragraph">
+                                        <legis:body>
+                                            <p align="left">This Act may be cited as the <emphasis style="bold">Public Authorities (Dividends) Act 1983.</emphasis>
+                                        </p>
+                                    </legis:body>
+                                </legis:lawTextComponent>
+                            </legis:sectionContent>
+                            <doc:metadata documentContentCountry="AU">
+                                <mncrdocmeta:chunkinfo>
+                                    <mncrdocmeta:lnlni lnlni="68G5-RH93-MB33-X0TC-00000-00" />
+                                    <mncrdocmeta:version version="00" />
+                                    <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+                                    <mncrdocmeta:collectioninfo>
+                                        <mncrdocmeta:collectionid rci="00" />
+                                        <mncrdocmeta:collectionhierarchy hierarchy="" />
+                                    </mncrdocmeta:collectioninfo>
+                                    <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                                              sys-load-date="2023-09-18T08:03:47" />
+                                </mncrdocmeta:chunkinfo>
+                                <dc:metadata>
+                                    <dc:title>1 Short title</dc:title>
+                                    <dc:identifier meta:identifierScheme="DOC-ID">VIC_ACT_10003_PROV1</dc:identifier>
+                                    <dc:identifier meta:identifierScheme="LNI">68G5-RH93-MB33-X0TC-00000-00</dc:identifier>
+                                    <dc:source meta:sourceScheme="productContentSetIdentifier">187785</dc:source>
+                                    <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+                                    <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+                                </dc:metadata>
+                                <doc:sourceDocumentInformation source="lbu-meta">
+                                    <metadata>
+                                        <metadataItem name="dpsi"
+                                                      value="0065" />
+                                        <metadataItem name="lbu-sourcename"
+                                                      value="LawNow Legislation Vic - - Legislation" />
+                                        <metadataItem name="split"
+                                                      value="false" />
+                                    </metadata>
+                                </doc:sourceDocumentInformation>
+                            </doc:metadata>
+                        </legis:section>
+                        <legis:section guid:guid="urn:contentItem:68G5-RH93-MB33-X0TD-00000-00"
+                                       xml:id="VIC_ACT_10003_PROV2">
+                            <legis:sectionContent guid:guid="urn:contentItem:68G5-RHD3-MB8B-21DK-00000-00"
+                                                  xml:id="VIC_ACT_10003_PROV2_CONTENT">
+                                <heading>
+                                    <designator value="2">
+                                        <emphasis style="bold">2</emphasis>
+                                    </designator>
+                                    <title isInline="0"
+                                           align="left">
+                                        <emphasis style="bold">Commencement</emphasis>
+                                    </title>
+                                </heading>
+                                <legis:lawTextComponent type="paragraph">
+                                    <legis:body>
+                                        <p align="left">The several provisions of this Act shall come into operation as follows—<list listType="ordered">
+                                            <listItem>
+                                                <listItemEnumerator>(a)</listItemEnumerator>
+                                                <p>Section 8 shall be deemed to have come into operation on 1 July 1982;</p>
+                                            </listItem>
+                                            <listItem>
+                                                <listItemEnumerator>(b)</listItemEnumerator>
+                                                <p>Sections 1, 2 and 9 shall come into operation on the day on which this Act receives the Royal Assent; and</p>
+                                            </listItem>
+                                            <listItem>
+                                                <listItemEnumerator>(c)</listItemEnumerator>
+                                                <p>The remaining provisions of this Act shall be deemed to have come into operation on 1 July 1983.</p>
+                                            </listItem>
+                                        </list>
+                                    </p>
+                                </legis:body>
+                            </legis:lawTextComponent>
+                        </legis:sectionContent>
+                        <doc:metadata documentContentCountry="AU">
+                            <mncrdocmeta:chunkinfo>
+                                <mncrdocmeta:lnlni lnlni="68G5-RH93-MB33-X0TD-00000-00" />
+                                <mncrdocmeta:version version="00" />
+                                <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+                                <mncrdocmeta:collectioninfo>
+                                    <mncrdocmeta:collectionid rci="00" />
+                                    <mncrdocmeta:collectionhierarchy hierarchy="" />
+                                </mncrdocmeta:collectioninfo>
+                                <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                                          sys-load-date="2023-09-18T08:03:47" />
+                            </mncrdocmeta:chunkinfo>
+                            <dc:metadata>
+                                <dc:title>2 Commencement</dc:title>
+                                <dc:identifier meta:identifierScheme="DOC-ID">VIC_ACT_10003_PROV2</dc:identifier>
+                                <dc:identifier meta:identifierScheme="LNI">68G5-RH93-MB33-X0TD-00000-00</dc:identifier>
+                                <dc:source meta:sourceScheme="productContentSetIdentifier">187785</dc:source>
+                                <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+                                <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+                            </dc:metadata>
+                            <doc:sourceDocumentInformation source="lbu-meta">
+                                <metadata>
+                                    <metadataItem name="dpsi"
+                                                  value="0065" />
+                                    <metadataItem name="lbu-sourcename"
+                                                  value="LawNow Legislation Vic - - Legislation" />
+                                    <metadataItem name="split"
+                                                  value="false" />
+                                </metadata>
+                            </doc:sourceDocumentInformation>
+                        </doc:metadata>
+                    </legis:section>
+                    <legis:section guid:guid="urn:contentItem:68G5-RH93-MB33-X0TG-00000-00"
+                                   xml:id="VIC_ACT_10003_PROV3">
+                        <legis:sectionContent guid:guid="urn:contentItem:68G5-RHD3-MB34-009B-00000-00"
+                                              xml:id="VIC_ACT_10003_PROV3_CONTENT">
+                            <heading>
+                                <designator value="3">
+                                    <emphasis style="bold">3</emphasis>
+                                </designator>
+                                <title isInline="0"
+                                       align="left">
+                                    <emphasis style="bold">Objective of the Act</emphasis>
+                                </title>
+                            </heading>
+                            <legis:lawTextComponent type="paragraph">
+                                <legis:body>
+                                    <p align="left">The objective of this Act is to ensure that the people of Victoria receive a reasonable rate of return on their equity in certain commercial public authorities of the State.</p>
+                                </legis:body>
+                            </legis:lawTextComponent>
+                        </legis:sectionContent>
+                        <doc:metadata documentContentCountry="AU">
+                            <mncrdocmeta:chunkinfo>
+                                <mncrdocmeta:lnlni lnlni="68G5-RH93-MB33-X0TG-00000-00" />
+                                <mncrdocmeta:version version="00" />
+                                <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+                                <mncrdocmeta:collectioninfo>
+                                    <mncrdocmeta:collectionid rci="00" />
+                                    <mncrdocmeta:collectionhierarchy hierarchy="" />
+                                </mncrdocmeta:collectioninfo>
+                                <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                                          sys-load-date="2023-09-18T08:03:47" />
+                            </mncrdocmeta:chunkinfo>
+                            <dc:metadata>
+                                <dc:title>3 Objective of the Act</dc:title>
+                                <dc:identifier meta:identifierScheme="DOC-ID">VIC_ACT_10003_PROV3</dc:identifier>
+                                <dc:identifier meta:identifierScheme="LNI">68G5-RH93-MB33-X0TG-00000-00</dc:identifier>
+                                <dc:source meta:sourceScheme="productContentSetIdentifier">187785</dc:source>
+                                <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+                                <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+                            </dc:metadata>
+                            <doc:sourceDocumentInformation source="lbu-meta">
+                                <metadata>
+                                    <metadataItem name="dpsi"
+                                                  value="0065" />
+                                    <metadataItem name="lbu-sourcename"
+                                                  value="LawNow Legislation Vic - - Legislation" />
+                                    <metadataItem name="split"
+                                                  value="false" />
+                                </metadata>
+                            </doc:sourceDocumentInformation>
+                        </doc:metadata>
+                    </legis:section>
+                    <legis:section guid:guid="urn:contentItem:68G5-RH93-MB33-X0TH-00000-00"
+                                   xml:id="VIC_ACT_10003_PROV4">
+                        <legis:sectionContent guid:guid="urn:contentItem:68G5-RHD3-MB8B-21DP-00000-00"
+                                              xml:id="VIC_ACT_10003_PROV4_CONTENT">
+                            <heading>
+                                <designator value="4">
+                                    <emphasis style="bold">4</emphasis>
+                                </designator>
+                                <title isInline="0"
+                                       align="left">
+                                    <emphasis style="bold">Definitions</emphasis>
+                                </title>
+                            </heading>
+                            <legis:lawTextComponent type="subsection"
+                                                    xml:id="VIC_ACT_10003_PROV4SUB1">
+                                <heading>
+                                    <designator value="1">(1)</designator>
+                                </heading>
+                                <legis:body>
+                                    <p>In this Act—<definitionList>
+                                        <definitionItem>
+                                            <definitionTerm xml:id="VIC_ACT_10003_PUBLICAUTHORITY">
+                                                <emphasis style="italic">public authority</emphasis>
+                                            </definitionTerm>
+                                            <definitionDescription> means—<list listType="ordered">
+                                                <listItem>
+                                                    <listItemEnumerator>(aa)</listItemEnumerator>
+                                                    <p>the Gas Transmission Corporation;</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(ab)</listItemEnumerator>
+                                                    <p>GASCOR;</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(ac)</listItemEnumerator>
+                                                    <p>VENCorp;</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(b)</listItemEnumerator>
+                                                    <p>the Melbourne and Metropolitan Board of Works;</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(c)</listItemEnumerator>
+                                                    <p>the Melbourne Convention and Exhibition Trust; or</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(d)</listItemEnumerator>
+                                                    <p>the State Electricity Commission; or</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(e)</listItemEnumerator>
+                                                    <p>the Grain Elevators Board; or</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(f)</listItemEnumerator>
+                                                    <p>the Rural Water Corporation; or</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(fa)</listItemEnumerator>
+                                                    <p>Electricity Services Victoria; or</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(fb)</listItemEnumerator>
+                                                    <p>Generation Victoria; or</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(fc)</listItemEnumerator>
+                                                    <p>Power Net Victoria; or</p>
+                                                </listItem>
+                                                <listItem>
+                                                    <listItemEnumerator>(fd)</listItemEnumerator>
+                                                    <p>Victorian Power Exchange; or</p>
+                                                </listItem>
+                                            </list>
+                                        </definitionDescription>
+                                    </definitionItem>
+                                    <definitionItem>
+                                        <definitionTerm xml:id="VIC_ACT_10003_PUBLICEQUITY">
+                                            <emphasis style="italic">public equity</emphasis>
+                                        </definitionTerm>
+                                        <definitionDescription>—<list listType="ordered">
+                                            <listItem>
+                                                <listItemEnumerator>(a)</listItemEnumerator>
+                                                <p>in relation to a financial year of a public authority other than the Gas and Fuel Corporation of Victoria, means an amount calculated in accordance with the formula <figure>
+                                                    <graphic>
+                                                        <externalObject originalOrAlternate="original"
+                                                                        type="simpleGraphic"
+                                                                        resizeDepth="320"
+                                                                        resizeWidth="1980"
+                                                                        fileName="VIC-ACT-10003-PIC1">
+                                                            <ref:locator>
+                                                                <ref:locatorKey>
+                                                                    <ref:keyName name="object-key" />
+                                                                    <ref:keyValue value="VIC-ACT-10003-PIC1" />
+                                                                </ref:locatorKey>
+                                                                <ref:locatorParameters>
+                                                                    <proc:parameter name="componentseq"
+                                                                                    value="1" />
+                                                                    <proc:parameter name="object-type"
+                                                                                    value="image" />
+                                                                    <proc:parameter name="object-smi"
+                                                                                    value="12638" />
+                                                                </ref:locatorParameters>
+                                                            </ref:locator>
+                                                        </externalObject>
+                                                    </graphic>
+                                                </figure> and</p>
+                                            </listItem>
+                                            <listItem>
+                                                <listItemEnumerator>(b)</listItemEnumerator>
+                                                <p>in relation to a financial year of the Gas and Fuel Corporation of Victoria, means an amount calculated in accordance with the formula <figure>
+                                                    <graphic>
+                                                        <externalObject originalOrAlternate="original"
+                                                                        type="simpleGraphic"
+                                                                        resizeDepth="320"
+                                                                        resizeWidth="2400"
+                                                                        fileName="VIC-ACT-10003-PIC2">
+                                                            <ref:locator>
+                                                                <ref:locatorKey>
+                                                                    <ref:keyName name="object-key" />
+                                                                    <ref:keyValue value="VIC-ACT-10003-PIC2" />
+                                                                </ref:locatorKey>
+                                                                <ref:locatorParameters>
+                                                                    <proc:parameter name="componentseq"
+                                                                                    value="1" />
+                                                                    <proc:parameter name="object-type"
+                                                                                    value="image" />
+                                                                    <proc:parameter name="object-smi"
+                                                                                    value="12638" />
+                                                                </ref:locatorParameters>
+                                                            </ref:locator>
+                                                        </externalObject>
+                                                    </graphic>
+                                                </figure> where—<quote style="inline">
+                                                    <definitionList>
+                                                        <definitionItem>
+                                                            <definitionTerm>A</definitionTerm>
+                                                            <definitionDescription> represents the current value of the assets of the public authority as at 30 June immediately preceding that financial year;</definitionDescription>
+                                                        </definitionItem>
+                                                        <definitionItem>
+                                                            <definitionTerm>B</definitionTerm>
+                                                            <definitionDescription> represents that part of the fixed assets that consists of capital work in progress;</definitionDescription>
+                                                        </definitionItem>
+                                                        <definitionItem>
+                                                            <definitionTerm>C</definitionTerm>
+                                                            <definitionDescription> represents the liabilities (whether current or non-current) of the public authority as at that date;</definitionDescription>
+                                                        </definitionItem>
+                                                        <definitionItem>
+                                                            <definitionTerm>D</definitionTerm>
+                                                            <definitionDescription> represents the liabilities incurred to finance capital work in progress; and</definitionDescription>
+                                                        </definitionItem>
+                                                        <definitionItem>
+                                                            <definitionTerm>E</definitionTerm>
+                                                            <definitionDescription> represents that part of the capital liabilities of the public authority as at that date that is in the form of shares held by persons other than the State of Victoria;</definitionDescription>
+                                                        </definitionItem>
+                                                    </definitionList>
+                                                </quote>
+                                            </p>
+                                        </listItem>
+                                    </list>
+                                </definitionDescription>
+                            </definitionItem>
+                            <definitionItem>
+                                <definitionTerm xml:id="VIC_ACT_10003_TREASURER">
+                                    <emphasis style="italic">Treasurer</emphasis>
+                                </definitionTerm>
+                                <definitionDescription> means Treasurer of Victoria.</definitionDescription>
+                            </definitionItem>
+                        </definitionList>
+                    </p>
+                </legis:body>
+            </legis:lawTextComponent>
+            <legis:lawTextComponent type="subsection"
+                                    xml:id="VIC_ACT_10003_PROV4SUB2">
+                <heading>
+                    <designator value="2">(2)</designator>
+                </heading>
+                <legis:body>
+                    <p>Subject to subsection (3), the value of "A", "B", "C", "D" and "E" in the formulae set out in the interpretation of <emphasis style="bold">
+                        <emphasis style="italic">public equity</emphasis>
+                    </emphasis> in subsection (1) shall be determined by the Treasurer after consultation with the Minister responsible for the public authority.</p>
+                </legis:body>
+            </legis:lawTextComponent>
+            <legis:lawTextComponent type="subsection"
+                                    xml:id="VIC_ACT_10003_PROV4SUB3">
+                <heading>
+                    <designator value="3">(3)</designator>
+                </heading>
+                <legis:body>
+                    <p>For the purposes of this Act advances or loans made to a public authority out of the Public Account in respect of which a return is being paid to the State of Victoria in the form of interest or in any other form shall not be treated as being part of the public equity of the public authority.</p>
+                </legis:body>
+            </legis:lawTextComponent>
+        </legis:sectionContent>
+        <doc:metadata documentContentCountry="AU">
+            <mncrdocmeta:chunkinfo>
+                <mncrdocmeta:lnlni lnlni="68G5-RH93-MB33-X0TH-00000-00" />
+                <mncrdocmeta:version version="00" />
+                <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+                <mncrdocmeta:collectioninfo>
+                    <mncrdocmeta:collectionid rci="00" />
+                    <mncrdocmeta:collectionhierarchy hierarchy="" />
+                </mncrdocmeta:collectioninfo>
+                <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                          sys-load-date="2023-09-18T08:03:47" />
+            </mncrdocmeta:chunkinfo>
+            <dc:metadata>
+                <dc:title>4 Definitions</dc:title>
+                <dc:identifier meta:identifierScheme="DOC-ID">VIC_ACT_10003_PROV4</dc:identifier>
+                <dc:identifier meta:identifierScheme="LNI">68G5-RH93-MB33-X0TH-00000-00</dc:identifier>
+                <dc:source meta:sourceScheme="productContentSetIdentifier">187785</dc:source>
+                <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+                <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+            </dc:metadata>
+            <doc:sourceDocumentInformation source="lbu-meta">
+                <metadata>
+                    <metadataItem name="dpsi"
+                                  value="0065" />
+                    <metadataItem name="lbu-sourcename"
+                                  value="LawNow Legislation Vic - - Legislation" />
+                    <metadataItem name="split"
+                                  value="false" />
+                </metadata>
+            </doc:sourceDocumentInformation>
+        </doc:metadata>
+    </legis:section>
+    <legis:section guid:guid="urn:contentItem:68G5-RH93-MB33-X0TB-00000-00"
+                   xml:id="VIC_ACT_10003_PROV5">
+        <legis:sectionContent guid:guid="urn:contentItem:68G5-RHD3-MB8B-21DN-00000-00"
+                              xml:id="VIC_ACT_10003_PROV5_CONTENT">
+            <heading>
+                <designator value="5">
+                    <emphasis style="bold">5</emphasis>
+                </designator>
+                <title isInline="0"
+                       align="left">
+                    <emphasis style="bold">Annual dividends to be paid by public authorities to Consolidated Fund</emphasis>
+                </title>
+            </heading>
+            <legis:lawTextComponent type="subsection"
+                                    xml:id="VIC_ACT_10003_PROV5SUB1">
+                <heading>
+                    <designator value="1">(1)</designator>
+                </heading>
+                <legis:body>
+                    <p>There shall be transferred to the Consolidated Fund in the financial year ending on 30 June 1992 and in each subsequent financial year by each public authority a dividend of such percentage of the public equity of the authority as is determined by the Treasurer after consultation with the Minister responsible for the public authority.</p>
+                </legis:body>
+            </legis:lawTextComponent>
+            <legis:lawTextComponent type="subsection"
+                                    xml:id="VIC_ACT_10003_PROV5SUB1A">
+                <heading>
+                    <designator value="1a">(1A)</designator>
+                </heading>
+                <legis:body>
+                    <p>If the Treasurer so determines in any financial year, there shall be transferred to the Consolidated Fund by each public authority, in addition to the dividend payable under subsection (1) in that year, a special dividend of such amount as is determined by the Treasurer after consultation with the Minister responsible for the public authority.</p>
+                </legis:body>
+            </legis:lawTextComponent>
+            <legis:lawTextComponent type="subsection"
+                                    xml:id="VIC_ACT_10003_PROV5SUB2">
+                <heading>
+                    <designator value="2">(2)</designator>
+                </heading>
+                <legis:body>
+                    <p>The transfer of a dividend to the Consolidated Fund pursuant to subsection (1) or (1A) shall be made at such times and in such manner as is agreed to by the Treasurer and the public authority or as is in default of such agreement determined by the Governor in Council.</p>
+                </legis:body>
+            </legis:lawTextComponent>
+        </legis:sectionContent>
+        <doc:metadata documentContentCountry="AU">
+            <mncrdocmeta:chunkinfo>
+                <mncrdocmeta:lnlni lnlni="68G5-RH93-MB33-X0TB-00000-00" />
+                <mncrdocmeta:version version="00" />
+                <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+                <mncrdocmeta:collectioninfo>
+                    <mncrdocmeta:collectionid rci="00" />
+                    <mncrdocmeta:collectionhierarchy hierarchy="" />
+                </mncrdocmeta:collectioninfo>
+                <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                          sys-load-date="2023-09-18T08:03:47" />
+            </mncrdocmeta:chunkinfo>
+            <dc:metadata>
+                <dc:title>5 Annual dividends to be paid by public authorities to Consolidated Fund</dc:title>
+                <dc:identifier meta:identifierScheme="DOC-ID">VIC_ACT_10003_PROV5</dc:identifier>
+                <dc:identifier meta:identifierScheme="LNI">68G5-RH93-MB33-X0TB-00000-00</dc:identifier>
+                <dc:source meta:sourceScheme="productContentSetIdentifier">187785</dc:source>
+                <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+                <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+            </dc:metadata>
+            <doc:sourceDocumentInformation source="lbu-meta">
+                <metadata>
+                    <metadataItem name="dpsi"
+                                  value="0065" />
+                    <metadataItem name="lbu-sourcename"
+                                  value="LawNow Legislation Vic - - Legislation" />
+                    <metadataItem name="split"
+                                  value="false" />
+                </metadata>
+            </doc:sourceDocumentInformation>
+        </doc:metadata>
+    </legis:section>
+    <legis:section guid:guid="urn:contentItem:68G5-RH93-MB33-X0T9-00000-00"
+                   xml:id="VIC_ACT_10003_PROV6">
+        <legis:sectionContent guid:guid="urn:contentItem:68G5-RHD3-MB33-Y14M-00000-00"
+                              xml:id="VIC_ACT_10003_PROV6_CONTENT">
+            <heading>
+                <designator value="6">
+                    <emphasis style="bold">6</emphasis>
+                </designator>
+                <title isInline="0"
+                       align="left">
+                    <emphasis style="bold">Reporting of dividends</emphasis>
+                </title>
+            </heading>
+            <legis:lawTextComponent type="paragraph">
+                <legis:body>
+                    <p align="left">Notwithstanding anything in any Act, the financial statements prepared by a public authority in respect of a financial year shall record in such manner as the Treasurer may direct the payment of a dividend required to be transferred to the Consolidated Fund by that public authority in that financial year pursuant to section 5.</p>
+                </legis:body>
+            </legis:lawTextComponent>
+        </legis:sectionContent>
+        <doc:metadata documentContentCountry="AU">
+            <mncrdocmeta:chunkinfo>
+                <mncrdocmeta:lnlni lnlni="68G5-RH93-MB33-X0T9-00000-00" />
+                <mncrdocmeta:version version="00" />
+                <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+                <mncrdocmeta:collectioninfo>
+                    <mncrdocmeta:collectionid rci="00" />
+                    <mncrdocmeta:collectionhierarchy hierarchy="" />
+                </mncrdocmeta:collectioninfo>
+                <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                          sys-load-date="2023-09-18T08:03:47" />
+            </mncrdocmeta:chunkinfo>
+            <dc:metadata>
+                <dc:title>6 Reporting of dividends</dc:title>
+                <dc:identifier meta:identifierScheme="DOC-ID">VIC_ACT_10003_PROV6</dc:identifier>
+                <dc:identifier meta:identifierScheme="LNI">68G5-RH93-MB33-X0T9-00000-00</dc:identifier>
+                <dc:source meta:sourceScheme="productContentSetIdentifier">187785</dc:source>
+                <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+                <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+            </dc:metadata>
+            <doc:sourceDocumentInformation source="lbu-meta">
+                <metadata>
+                    <metadataItem name="dpsi"
+                                  value="0065" />
+                    <metadataItem name="lbu-sourcename"
+                                  value="LawNow Legislation Vic - - Legislation" />
+                    <metadataItem name="split"
+                                  value="false" />
+                </metadata>
+            </doc:sourceDocumentInformation>
+        </doc:metadata>
+    </legis:section>
+    <legis:section guid:guid="urn:contentItem:68G5-RH93-MB33-X0TF-00000-00"
+                   xml:id="VIC_ACT_10003_PROV6A">
+        <legis:sectionContent guid:guid="urn:contentItem:68G5-RHD3-MB34-009H-00000-00"
+                              xml:id="VIC_ACT_10003_PROV6A_CONTENT">
+            <heading>
+                <designator value="6a">
+                    <emphasis style="bold">6A</emphasis>
+                </designator>
+                <title isInline="0"
+                       align="left">
+                    <emphasis style="bold">Regulations</emphasis>
+                </title>
+            </heading>
+            <legis:lawTextComponent type="paragraph">
+                <legis:body>
+                    <p align="left">The Governor in Council may make regulations for or with respect to any matter or thing required or permitted by this Act to be prescribed or necessary to be prescribed to give effect to this Act.</p>
+                </legis:body>
+            </legis:lawTextComponent>
+        </legis:sectionContent>
+        <doc:metadata documentContentCountry="AU">
+            <mncrdocmeta:chunkinfo>
+                <mncrdocmeta:lnlni lnlni="68G5-RH93-MB33-X0TF-00000-00" />
+                <mncrdocmeta:version version="00" />
+                <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+                <mncrdocmeta:collectioninfo>
+                    <mncrdocmeta:collectionid rci="00" />
+                    <mncrdocmeta:collectionhierarchy hierarchy="" />
+                </mncrdocmeta:collectioninfo>
+                <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                          sys-load-date="2023-09-18T08:03:47" />
+            </mncrdocmeta:chunkinfo>
+            <dc:metadata>
+                <dc:title>6A Regulations</dc:title>
+                <dc:identifier meta:identifierScheme="DOC-ID">VIC_ACT_10003_PROV6A</dc:identifier>
+                <dc:identifier meta:identifierScheme="LNI">68G5-RH93-MB33-X0TF-00000-00</dc:identifier>
+                <dc:source meta:sourceScheme="productContentSetIdentifier">187785</dc:source>
+                <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+                <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+            </dc:metadata>
+            <doc:sourceDocumentInformation source="lbu-meta">
+                <metadata>
+                    <metadataItem name="dpsi"
+                                  value="0065" />
+                    <metadataItem name="lbu-sourcename"
+                                  value="LawNow Legislation Vic - - Legislation" />
+                    <metadataItem name="split"
+                                  value="false" />
+                </metadata>
+            </doc:sourceDocumentInformation>
+        </doc:metadata>
+    </legis:section>
+</legis:hierarchyContent>
+<doc:metadata documentContentCountry="AU">
+    <mncrdocmeta:chunkinfo>
+        <mncrdocmeta:lnlni lnlni="58X6-KXW1-F5KY-B3D6-00000-00" />
+        <mncrdocmeta:version version="00" />
+        <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+        <mncrdocmeta:collectioninfo>
+            <mncrdocmeta:collectionid rci="00" />
+            <mncrdocmeta:collectionhierarchy hierarchy="" />
+        </mncrdocmeta:collectioninfo>
+        <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                  sys-load-date="2023-09-18T08:03:47" />
+    </mncrdocmeta:chunkinfo>
+    <dc:metadata>
+        <dc:title>6A Regulations</dc:title>
+        <dc:identifier meta:identifierScheme="DOC-ID">0065-VIC_ACT_10003_BODY</dc:identifier>
+        <dc:identifier meta:identifierScheme="LNI">58X6-KXW1-F5KY-B3D6-00000-00</dc:identifier>
+        <dc:source meta:sourceScheme="productContentSetIdentifier">267884</dc:source>
+        <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+        <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+    </dc:metadata>
+    <currencyStatement>Consolidated as in force on <date>
+        <dateText>1 July 2007</dateText>
+    </date>
+</currencyStatement>
+<classify:classification classScheme="selector">
+    <classify:classItem>
+        <classify:classItemIdentifier>
+            <classify:className>act</classify:className>
+        </classify:classItemIdentifier>
+    </classify:classItem>
+</classify:classification>
+<classify:classification classScheme="lbu-subj">
+    <classify:classItem>
+        <classify:classItemIdentifier>
+            <classify:classCode normval="lawnow345" />
+        </classify:classItemIdentifier>
+    </classify:classItem>
+</classify:classification>
+<doc:sourceSequenceNumber sequenceType="bookOrder">693825954</doc:sourceSequenceNumber>
+<doc:alternateRenditions>
+    <doc:alternateRendition key="fulltext">
+        <ref:link service="attachment">
+            <ref:marker role="label">PDF version of this Act</ref:marker>
+            <ref:locator>
+                <ref:locatorKey>
+                    <ref:keyName name="attachment-key" />
+                    <ref:keyValue value="68YP-1RR1-JS0R-22XJ-00000-00-12638-VIC-ACT-10003" />
+                </ref:locatorKey>
+                <ref:locatorParameters>
+                    <proc:parameter name="componentseq"
+                                    value="1" />
+                    <proc:parameter name="attachment-type"
+                                    value="pdf" />
+                    <proc:parameter name="attachment-smi"
+                                    value="12638" />
+                </ref:locatorParameters>
+            </ref:locator>
+        </ref:link>
+    </doc:alternateRendition>
+</doc:alternateRenditions>
+<doc:sourceDocumentInformation source="lbu-meta">
+    <metadata>
+        <metadataItem name="dpsi"
+                      value="0065" />
+        <metadataItem name="lbu-sourcename"
+                      value="LawNow Legislation Vic - - Legislation" />
+        <metadataItem name="split"
+                      value="true" />
+        <metadataItem name="parent-docid"
+                      value="VIC_ACT_10003" />
+        <metadataItem name="juris"
+                      value="VIC" />
+        <metadataItem name="legyear"
+                      value="" />
+        <metadataItem name="isrepealed"
+                      value="no" />
+        <metadataItem name="is_assents"
+                      value="no" />
+        <metadataItem name="assent_date"
+                      value="" />
+        <metadataItem name="is_commencements"
+                      value="no" />
+        <metadataItem name="is_current"
+                      value="yes" />
+        <metadataItem name="act_number"
+                      value="10003" />
+        <metadataItem name="subjectterm"
+                      value="345" />
+        <metadataItem name="legitemDocumentOrder"
+                      value="otherLegitemDocument" />
+    </metadata>
+</doc:sourceDocumentInformation>
+</doc:metadata>
+</legis:hierarchy>
+</legis:hierarchyContent>
+</legis:hierarchy>
+<legis:hierarchy type="unclassified"
+                 guid:guid="urn:contentItem:68G5-RHD3-MB34-009R-00000-00"
+                 xml:id="VIC_ACT_10003_BACK">
+    <legis:hierarchyContent guid:guid="urn:contentItem:68G5-RHD3-MB34-009M-00000-00"
+                            xml:id="VIC_ACT_10003_BACKCONTENT">
+        <legis:hierarchy type="hierarchyNote"
+                         guid:guid="urn:contentItem:58X6-KXW1-F5KY-B3D7-00000-00"
+                         xml:id="VIC_ACT_10003_NOTES">
+            <legis:hierarchyContent xml:id="VIC_ACT_10003_NOTES_CONTENT"
+                                    guid:guid="urn:contentItem:68G5-RHD3-MB33-Y14P-00000-00">
+                <heading>
+                    <title isInline="0"
+                           align="center">
+                        <emphasis style="bold">ENDNOTES</emphasis>
+                    </title>
+                </heading>
+                <legis:lawTextComponent type="clause"
+                                        xml:id="VIC_ACT_10003_NOTESPROV1">
+                    <heading>
+                        <designator value="1">
+                            <emphasis style="bold">1.</emphasis>
+                        </designator>
+                        <title isInline="0"
+                               align="left">
+                            <emphasis style="bold">General Information</emphasis>
+                        </title>
+                    </heading>
+                    <legis:body>
+                        <p align="left">The <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis> was assented to on 13 December 1983 and came into operations as follows:</p>
+                        <p align="left">Section 8 was deemed to have come into operation on 1 July 1982: section 2(a); sections 1, 2, 9 on 13 December 1983 section 2(b); rest of Act was deemed to have come into operation on 1 July 1983: section 2(c).</p>
+                    </legis:body>
+                </legis:lawTextComponent>
+                <legis:lawTextComponent type="clause"
+                                        xml:id="VIC_ACT_10003_NOTESPROV2">
+                    <heading>
+                        <designator value="2">
+                            <emphasis style="bold">2.</emphasis>
+                        </designator>
+                        <title isInline="0"
+                               align="left">
+                            <emphasis style="bold">Table of Amendments</emphasis>
+                        </title>
+                    </heading>
+                    <legis:body>
+                        <p align="left">This Version incorporates amendments made to the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis> by Acts and subordinate instruments.</p>
+                        <p align="left">
+                            <emphasis style="bold">Public Authorities (Dividends) (Amendment) Act 1992, No. 73/1992</emphasis>
+                            <table orient="l"
+                                   lntbl:table-align="center">
+                                <tgroup cols="2">
+                                    <colspec colname="c1" />
+                                    <colspec colname="c2" />
+                                    <tbody>
+                                        <row>
+                                            <entry colname="c1"
+                                                   align="left">
+                                                <p align="left">
+                                                    <emphasis style="italic">Assent Date:</emphasis>
+                                                </p>
+                                            </entry>
+                                            <entry colname="c2"
+                                                   align="left">
+                                                <p align="left">24.11.92</p>
+                                            </entry>
+                                        </row>
+                                        <row>
+                                            <entry colname="c1"
+                                                   align="left">
+                                                <p align="left">
+                                                    <emphasis style="italic">Commencement Date:</emphasis>
+                                                </p>
+                                            </entry>
+                                            <entry colname="c2"
+                                                   align="left">
+                                                <p align="left">24.11.92</p>
+                                            </entry>
+                                        </row>
+                                        <row>
+                                            <entry colname="c1"
+                                                   align="left">
+                                                <p align="left">
+                                                    <emphasis style="italic">Current State:</emphasis>
+                                                </p>
+                                            </entry>
+                                            <entry colname="c2"
+                                                   align="left">
+                                                <p align="left">All of Act in operation</p>
+                                            </entry>
+                                        </row>
+                                    </tbody>
+                                </tgroup>
+                            </table>
+                        </p>
+                        <p align="left">
+                            <emphasis style="bold">Electricity Industry Act 1993, No. 130/1993</emphasis>
+                            <table orient="l"
+                                   lntbl:table-align="center">
+                                <tgroup cols="2">
+                                    <colspec colname="c1" />
+                                    <colspec colname="c2" />
+                                    <tbody>
+                                        <row>
+                                            <entry colname="c1"
+                                                   align="left">
+                                                <p align="left">
+                                                    <emphasis style="italic">Assent Date:</emphasis>
+                                                </p>
+                                            </entry>
+                                            <entry colname="c2"
+                                                   align="left">
+                                                <p align="left">14.12.93</p>
+                                            </entry>
+                                        </row>
+                                        <row>
+                                            <entry colname="c1"
+                                                   align="left">
+                                                <p align="left">
+                                                    <emphasis style="italic">Commencement Date:</emphasis>
+                                                </p>
+                                            </entry>
+                                            <entry colname="c2"
+                                                   align="left">
+                                                <p align="left">S. 120 on 3.1.94: Special Gazette (No. 97) 23.12.93 p. 1</p>
+                                            </entry>
+                                        </row>
+                                        <row>
+                                            <entry colname="c1"
+                                                   align="left">
+                                                <p align="left">
+                                                    <emphasis style="italic">Current State:</emphasis>
+                                                </p>
+                                            </entry>
+                                            <entry colname="c2"
+                                                   align="left">
+                                                <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                                            </p>
+                                        </entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </p>
+                    <p align="left">
+                        <emphasis style="bold">Electricity Industry (Amendment) Act 1994, No. 53/1994</emphasis>
+                        <table orient="l"
+                               lntbl:table-align="center">
+                            <tgroup cols="2">
+                                <colspec colname="c1" />
+                                <colspec colname="c2" />
+                                <tbody>
+                                    <row>
+                                        <entry colname="c1"
+                                               align="left">
+                                            <p align="left">
+                                                <emphasis style="italic">Assent Date:</emphasis>
+                                            </p>
+                                        </entry>
+                                        <entry colname="c2"
+                                               align="left">
+                                            <p align="left">15.6.94</p>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry colname="c1"
+                                               align="left">
+                                            <p align="left">
+                                                <emphasis style="italic">Commencement Date:</emphasis>
+                                            </p>
+                                        </entry>
+                                        <entry colname="c2"
+                                               align="left">
+                                            <p align="left">S. 31 on 3.10.94: Special Gazette (No. 64) 27.9.94 p. 1</p>
+                                        </entry>
+                                    </row>
+                                    <row>
+                                        <entry colname="c1"
+                                               align="left">
+                                            <p align="left">
+                                                <emphasis style="italic">Current State:</emphasis>
+                                            </p>
+                                        </entry>
+                                        <entry colname="c2"
+                                               align="left">
+                                            <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                                        </p>
+                                    </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+                <p align="left">
+                    <emphasis style="bold">Electricity Industry (Further Amendment) Act 1994, No. 110/1994</emphasis>
+                    <table orient="l"
+                           lntbl:table-align="center">
+                        <tgroup cols="2">
+                            <colspec colname="c1" />
+                            <colspec colname="c2" />
+                            <tbody>
+                                <row>
+                                    <entry colname="c1"
+                                           align="left">
+                                        <p align="left">
+                                            <emphasis style="italic">Assent Date:</emphasis>
+                                        </p>
+                                    </entry>
+                                    <entry colname="c2"
+                                           align="left">
+                                        <p align="left">20.12.94</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1"
+                                           align="left">
+                                        <p align="left">
+                                            <emphasis style="italic">Commencement Date:</emphasis>
+                                        </p>
+                                    </entry>
+                                    <entry colname="c2"
+                                           align="left">
+                                        <p align="left">S. 38 on 20.12.94: Special Gazette (No. 100) 20.12.94 p. 1</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry colname="c1"
+                                           align="left">
+                                        <p align="left">
+                                            <emphasis style="italic">Current State:</emphasis>
+                                        </p>
+                                    </entry>
+                                    <entry colname="c2"
+                                           align="left">
+                                        <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                                    </p>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+            <p align="left">
+                <emphasis style="bold">Gas Industry Act 1994, No. 112/1994</emphasis>
+                <table orient="l"
+                       lntbl:table-align="center">
+                    <tgroup cols="2">
+                        <colspec colname="c1" />
+                        <colspec colname="c2" />
+                        <tbody>
+                            <row>
+                                <entry colname="c1"
+                                       align="left">
+                                    <p align="left">
+                                        <emphasis style="italic">Assent Date:</emphasis>
+                                    </p>
+                                </entry>
+                                <entry colname="c2"
+                                       align="left">
+                                    <p align="left">20.12.94</p>
+                                </entry>
+                            </row>
+                            <row>
+                                <entry colname="c1"
+                                       align="left">
+                                    <p align="left">
+                                        <emphasis style="italic">Commencement Date:</emphasis>
+                                    </p>
+                                </entry>
+                                <entry colname="c2"
+                                       align="left">
+                                    <p align="left">S. 114(Sch. 5 item 9) on 20.12.94: Special Gazette (No. 100) 20.12.94 p. 1</p>
+                                </entry>
+                            </row>
+                            <row>
+                                <entry colname="c1"
+                                       align="left">
+                                    <p align="left">
+                                        <emphasis style="italic">Current State:</emphasis>
+                                    </p>
+                                </entry>
+                                <entry colname="c2"
+                                       align="left">
+                                    <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                                </p>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+        <p align="left">
+            <emphasis style="bold">Gas and Fuel Corporation (Repeal) Act 1995, No. 31/1995</emphasis>
+            <table orient="l"
+                   lntbl:table-align="center">
+                <tgroup cols="2">
+                    <colspec colname="c1" />
+                    <colspec colname="c2" />
+                    <tbody>
+                        <row>
+                            <entry colname="c1"
+                                   align="left">
+                                <p align="left">
+                                    <emphasis style="italic">Assent Date:</emphasis>
+                                </p>
+                            </entry>
+                            <entry colname="c2"
+                                   align="left">
+                                <p align="left">6.6.95</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry colname="c1"
+                                   align="left">
+                                <p align="left">
+                                    <emphasis style="italic">Commencement Date:</emphasis>
+                                </p>
+                            </entry>
+                            <entry colname="c2"
+                                   align="left">
+                                <p align="left">S. 52(Sch. 1 item 9) on 21.6.95: Special Gazette (No. 49) 14.6.95 p. 1</p>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry colname="c1"
+                                   align="left">
+                                <p align="left">
+                                    <emphasis style="italic">Current State:</emphasis>
+                                </p>
+                            </entry>
+                            <entry colname="c2"
+                                   align="left">
+                                <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                            </p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </p>
+    <p align="left">
+        <emphasis style="bold">Gas Industry (Further Amendment) Act 1997, No. 91/1997</emphasis>
+        <table orient="l"
+               lntbl:table-align="center">
+            <tgroup cols="2">
+                <colspec colname="c1" />
+                <colspec colname="c2" />
+                <tbody>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p align="left">
+                                <emphasis style="italic">Assent Date:</emphasis>
+                            </p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p align="left">9.12.97</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p align="left">
+                                <emphasis style="italic">Commencement Date:</emphasis>
+                            </p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p align="left">S. 49 on 11.12.97: Special Gazette (No. 155) 9.12.97 p. 1</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p align="left">
+                                <emphasis style="italic">Current State:</emphasis>
+                            </p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                        </p>
+                    </entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+</p>
+<p align="left">
+    <emphasis style="bold">Port Services (Port of Melbourne Reform) Act 2003, No. 23/2003</emphasis>
+    <table orient="l"
+           lntbl:table-align="center">
+        <tgroup cols="2">
+            <colspec colname="c1" />
+            <colspec colname="c2" />
+            <tbody>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Assent Date:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">13.5.03</p>
+                    </entry>
+                </row>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Commencement Date:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">S. 29 on 3.11.03: Government Gazette 30.10.03 p. 2744</p>
+                    </entry>
+                </row>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Current State:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                    </p>
+                </entry>
+            </row>
+        </tbody>
+    </tgroup>
+</table>
+</p>
+<p align="left">
+    <emphasis style="bold">State Taxation Legislation (Miscellaneous Amendments) Act 2006, No. 84/2006</emphasis>
+    <table orient="l"
+           lntbl:table-align="center">
+        <tgroup cols="2">
+            <colspec colname="c1" />
+            <colspec colname="c2" />
+            <tbody>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Assent Date:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">10.10.06</p>
+                    </entry>
+                </row>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Commencement Date:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">S. 15 on 11.10.06: s. 2(1)</p>
+                    </entry>
+                </row>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Current State:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                    </p>
+                </entry>
+            </row>
+        </tbody>
+    </tgroup>
+</table>
+</p>
+<p align="left">
+    <emphasis style="bold">Water (Governance) Act 2006, No. 85/2006</emphasis>
+    <table orient="l"
+           lntbl:table-align="center">
+        <tgroup cols="2">
+            <colspec colname="c1" />
+            <colspec colname="c2" />
+            <tbody>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Assent Date:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">17.10.06</p>
+                    </entry>
+                </row>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Commencement Date:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">S. 164 on 1.7.07: s. 2(3)</p>
+                    </entry>
+                </row>
+                <row>
+                    <entry colname="c1"
+                           align="left">
+                        <p align="left">
+                            <emphasis style="italic">Current State:</emphasis>
+                        </p>
+                    </entry>
+                    <entry colname="c2"
+                           align="left">
+                        <p align="left">This information relates only to the provision/s amending the <emphasis style="bold">Public Authorities (Dividends) Act 1983</emphasis>
+                    </p>
+                </entry>
+            </row>
+        </tbody>
+    </tgroup>
+</table>
+</p>
+</legis:body>
+</legis:lawTextComponent>
+<legis:lawTextComponent type="clause"
+                        xml:id="VIC_ACT_10003_NOTESPROV3">
+    <heading>
+        <designator value="3">
+            <emphasis style="bold">3.</emphasis>
+        </designator>
+        <title isInline="0"
+               align="left">
+            <emphasis style="bold">List of Annotations</emphasis>
+        </title>
+    </heading>
+    <legis:body>
+        <p>
+            <table orient="l"
+                   lntbl:table-align="center">
+                <tgroup cols="2">
+                    <tbody>
+                        <row>
+                            <entry colname="c1"
+                                   align="left">
+                                <p>S. 4(1) def. of <emphasis style="italic">public authority</emphasis>
+                            </p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p>amended by Nos 73/1992 s. 4, 130/1993 s. 120, 53/1994 s. 31, 110/1994 s. 38(a)(b), 112/1994 s. 114(Sch. 5 item 9), 31/1995 s. 52(Sch. 1 item 9), 91/1997 s. 49, 23/2003 s. 29, 84/2006 s. 15, 85/2006 s. 164.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p>S. 5(1)</p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p>amended by No. 73/1992 s. 5(1)(a)(b).</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p>S. 5(1A)</p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p>inserted by No. 73/1992 s. 5(2).</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p>S. 5(2)</p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p>amended by No. 73/1992 s. 5(3).</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p>S. 5(3)(4)</p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p>repealed by No. 73/1992 s. 7(a).</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p>S. 6A</p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p>inserted by No. 73/1992 s. 6.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry colname="c1"
+                               align="left">
+                            <p>Ss 7–9</p>
+                        </entry>
+                        <entry colname="c2"
+                               align="left">
+                            <p>repealed by No. 73/1992 s. 7(b).</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </p>
+</legis:body>
+</legis:lawTextComponent>
+<legis:lawTextComponent type="clause"
+                        xml:id="VIC_ACT_10003_NOTESPROV4">
+    <heading>
+        <designator value="4">
+            <emphasis style="bold">4.</emphasis>
+        </designator>
+        <title isInline="0"
+               align="left">
+            <emphasis style="bold">Explanatory Details</emphasis>
+        </title>
+    </heading>
+    <legis:body>
+        <p align="left">No entries at date of publication.</p>
+    </legis:body>
+</legis:lawTextComponent>
+</legis:hierarchyContent>
+<doc:metadata documentContentCountry="AU">
+    <mncrdocmeta:chunkinfo>
+        <mncrdocmeta:lnlni lnlni="58X6-KXW1-F5KY-B3D7-00000-00" />
+        <mncrdocmeta:version version="00" />
+        <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+        <mncrdocmeta:collectioninfo>
+            <mncrdocmeta:collectionid rci="00" />
+            <mncrdocmeta:collectionhierarchy hierarchy="" />
+        </mncrdocmeta:collectioninfo>
+        <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                  sys-load-date="2023-09-18T08:03:47" />
+    </mncrdocmeta:chunkinfo>
+    <dc:metadata>
+        <dc:title>ENDNOTES</dc:title>
+        <dc:identifier meta:identifierScheme="DOC-ID">0065-VIC_ACT_10003_NOTES</dc:identifier>
+        <dc:identifier meta:identifierScheme="LNI">58X6-KXW1-F5KY-B3D7-00000-00</dc:identifier>
+        <dc:source meta:sourceScheme="productContentSetIdentifier">267884</dc:source>
+        <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+        <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+    </dc:metadata>
+    <currencyStatement>Consolidated as in force on <date>
+        <dateText>1 July 2007</dateText>
+    </date>
+</currencyStatement>
+<classify:classification classScheme="selector">
+    <classify:classItem>
+        <classify:classItemIdentifier>
+            <classify:className>act</classify:className>
+        </classify:classItemIdentifier>
+    </classify:classItem>
+</classify:classification>
+<classify:classification classScheme="lbu-subj">
+    <classify:classItem>
+        <classify:classItemIdentifier>
+            <classify:classCode normval="lawnow345" />
+        </classify:classItemIdentifier>
+    </classify:classItem>
+</classify:classification>
+<doc:sourceSequenceNumber sequenceType="bookOrder">693825955</doc:sourceSequenceNumber>
+<doc:alternateRenditions>
+    <doc:alternateRendition key="fulltext">
+        <ref:link service="attachment">
+            <ref:marker role="label">PDF version of this Act</ref:marker>
+            <ref:locator>
+                <ref:locatorKey>
+                    <ref:keyName name="attachment-key" />
+                    <ref:keyValue value="68YP-1RR1-JS0R-22XJ-00000-00-12638-VIC-ACT-10003" />
+                </ref:locatorKey>
+                <ref:locatorParameters>
+                    <proc:parameter name="componentseq"
+                                    value="1" />
+                    <proc:parameter name="attachment-type"
+                                    value="pdf" />
+                    <proc:parameter name="attachment-smi"
+                                    value="12638" />
+                </ref:locatorParameters>
+            </ref:locator>
+        </ref:link>
+    </doc:alternateRendition>
+</doc:alternateRenditions>
+<doc:sourceDocumentInformation source="lbu-meta">
+    <metadata>
+        <metadataItem name="dpsi"
+                      value="0065" />
+        <metadataItem name="lbu-sourcename"
+                      value="LawNow Legislation Vic - - Legislation" />
+        <metadataItem name="split"
+                      value="true" />
+        <metadataItem name="parent-docid"
+                      value="VIC_ACT_10003" />
+        <metadataItem name="juris"
+                      value="VIC" />
+        <metadataItem name="legyear"
+                      value="" />
+        <metadataItem name="isrepealed"
+                      value="no" />
+        <metadataItem name="is_assents"
+                      value="no" />
+        <metadataItem name="assent_date"
+                      value="" />
+        <metadataItem name="is_commencements"
+                      value="no" />
+        <metadataItem name="is_current"
+                      value="yes" />
+        <metadataItem name="act_number"
+                      value="10003" />
+        <metadataItem name="subjectterm"
+                      value="345" />
+        <metadataItem name="legitemDocumentOrder"
+                      value="otherLegitemDocument" />
+    </metadata>
+</doc:sourceDocumentInformation>
+</doc:metadata>
+</legis:hierarchy>
+</legis:hierarchyContent>
+</legis:hierarchy>
+<legis:hierarchy guid:guid="urn:contentItem:58X6-KXW1-F5KY-B3D8-00000-00"
+                 type="unclassified"
+                 xml:id="VIC_ACT_10003_LEGHIST">
+    <legis:hierarchyContent guid:guid="urn:contentItem:68G5-RHD3-MB33-Y14N-00000-00"
+                            xml:id="VIC_ACT_10003_LEGHISTCONTENT">
+        <primlawhist:history>
+            <heading>
+                <title>
+                    <emphasis style="bold">LawNow Legislative History</emphasis>
+                </title>
+            </heading>
+            <primlawhist:actionHistory xml:id="VIC_ACT_10003_LEGHIST_UNCOMMENCED">
+                <primlawhist:action>
+                    <primlawhist:actionSummary>
+                        <comment type="other">
+                            <heading>
+                                <title>
+                                    <emphasis style="bold">Uncommenced Provisions</emphasis>
+                                </title>
+                            </heading>
+                            <p>All original provisions of this Act are in force</p>
+                        </comment>
+                    </primlawhist:actionSummary>
+                </primlawhist:action>
+            </primlawhist:actionHistory>
+            <primlawhist:actionHistory xml:id="VIC_ACT_10003_LEGHIST_REPEALEDBYME">
+                <primlawhist:action>
+                    <primlawhist:actionSummary>
+                        <comment type="other">
+                            <heading>
+                                <title>
+                                    <emphasis style="bold">Laws Repealed</emphasis>
+                                </title>
+                            </heading>
+                            <p>None.</p>
+                        </comment>
+                    </primlawhist:actionSummary>
+                </primlawhist:action>
+            </primlawhist:actionHistory>
+            <primlawhist:actionHistory xml:id="VIC_ACT_10003_LEGHIST_AMENDEDBYME">
+                <primlawhist:action>
+                    <primlawhist:actionSummary>
+                        <comment type="other">
+                            <heading>
+                                <title>
+                                    <emphasis style="bold">Laws Amended</emphasis>
+                                </title>
+                            </heading>
+                            <p>None.</p>
+                        </comment>
+                    </primlawhist:actionSummary>
+                </primlawhist:action>
+            </primlawhist:actionHistory>
+            <primlawhist:actionHistory xml:id="VIC_ACT_10003_LEGHIST_AMENDTOME">
+                <primlawhist:action>
+                    <primlawhist:actionSummary>
+                        <comment type="other">
+                            <heading>
+                                <title>
+                                    <emphasis style="bold">Amendments to this Act</emphasis>
+                                </title>
+                            </heading>
+                            <p>This Act is amended by:</p>
+                        </comment>
+                        <table frame="all">
+                            <tgroup cols="4"
+                                    colsep="1"
+                                    rowsep="1">
+                                <colspec colwidth="50*"
+                                         colname="c1"
+                                         colnum="1" />
+                                <colspec colwidth="27*"
+                                         colname="c2"
+                                         colnum="2" />
+                                <colspec colwidth="13*"
+                                         colname="c3"
+                                         colnum="3" />
+                                <colspec colwidth="10*"
+                                         colname="c4"
+                                         colnum="4" />
+                                <thead>
+                                    <row>
+                                        <entry colname="c1"
+                                               align="center">
+                                            <emphasis style="bold">Amending Law</emphasis>
+                                        </entry>
+                                        <entry colname="c2"
+                                               align="center">
+                                            <emphasis style="bold">Source</emphasis>
+                                        </entry>
+                                        <entry colname="c3"
+                                               align="center">
+                                            <emphasis style="bold">Commencement Dates</emphasis>
+                                        </entry>
+                                        <entry colname="c4"
+                                               align="center">
+                                            <emphasis style="bold">Fully Proclaimed?</emphasis>
+                                        </entry>
+                                    </row>
+                                </thead>
+                                <tbody>
+                                    <row>
+                                        <entry align="left"
+                                               colname="c1">
+                                            <ref:link service="document">
+                                                <ref:marker>WATER (GOVERNANCE) ACT 2006</ref:marker>
+                                                <ref:locator anchorIdRef="VIC_ACT_2006-85">
+                                                    <ref:locatorKey>
+                                                        <ref:keyName name="DOC-ID" />
+                                                        <ref:keyValue value="" />
+                                                    </ref:locatorKey>
+                                                </ref:locator>
+                                            </ref:link>
+                                        </entry>
+                                        <entry align="left"
+                                               colname="c2">
+                                            <ref:link service="document">
+                                                <ref:marker>Section 164</ref:marker>
+                                                <ref:locator anchorIdRef="VIC_ACT_2006-85_PROV164">
+                                                    <ref:locatorKey>
+                                                        <ref:keyName name="DOC-ID" />
+                                                        <ref:keyValue value="" />
+                                                    </ref:locatorKey>
+                                                </ref:locator>
+                                            </ref:link>
+                                        </entry>
+                                        <entry align="center"
+                                               colname="c3">
+                                            <date>
+                                                <dateText>1/7/2007</dateText>
+                                            </date>
+                                        </entry>
+                                        <entry align="center"
+                                               colname="c4">Yes</entry>
+                                    </row>
+                                    <row>
+                                        <entry align="left"
+                                               colname="c1">
+                                            <ref:link service="document">
+                                                <ref:marker>STATE TAXATION LEGISLATION (MISCELLANEOUS AMENDMENTS) ACT 2006</ref:marker>
+                                                <ref:locator anchorIdRef="VIC_ACT_2006-84">
+                                                    <ref:locatorKey>
+                                                        <ref:keyName name="DOC-ID" />
+                                                        <ref:keyValue value="" />
+                                                    </ref:locatorKey>
+                                                </ref:locator>
+                                            </ref:link>
+                                        </entry>
+                                        <entry align="left"
+                                               colname="c2">
+                                            <ref:link service="document">
+                                                <ref:marker>Section 15</ref:marker>
+                                                <ref:locator anchorIdRef="VIC_ACT_2006-84_PROV15">
+                                                    <ref:locatorKey>
+                                                        <ref:keyName name="DOC-ID" />
+                                                        <ref:keyValue value="" />
+                                                    </ref:locatorKey>
+                                                </ref:locator>
+                                            </ref:link>
+                                        </entry>
+                                        <entry align="center"
+                                               colname="c3">
+                                            <date>
+                                                <dateText>11/10/2006</dateText>
+                                            </date>
+                                        </entry>
+                                        <entry align="center"
+                                               colname="c4">Yes</entry>
+                                    </row>
+                                    <row>
+                                        <entry align="left"
+                                               colname="c1">
+                                            <ref:link service="document">
+                                                <ref:marker>PORT SERVICES (PORT OF MELBOURNE REFORM) ACT 2003</ref:marker>
+                                                <ref:locator anchorIdRef="VIC_ACT_2003-23">
+                                                    <ref:locatorKey>
+                                                        <ref:keyName name="DOC-ID" />
+                                                        <ref:keyValue value="" />
+                                                    </ref:locatorKey>
+                                                </ref:locator>
+                                            </ref:link>
+                                        </entry>
+                                        <entry align="left"
+                                               colname="c2">
+                                            <ref:link service="document">
+                                                <ref:marker>Sec 29</ref:marker>
+                                                <ref:locator anchorIdRef="VIC_ACT_2003-23_PROV29">
+                                                    <ref:locatorKey>
+                                                        <ref:keyName name="DOC-ID" />
+                                                        <ref:keyValue value="" />
+                                                    </ref:locatorKey>
+                                                </ref:locator>
+                                            </ref:link>
+                                        </entry>
+                                        <entry align="center"
+                                               colname="c3">
+                                            <date>
+                                                <dateText>3/11/2003</dateText>
+                                            </date>
+                                        </entry>
+                                        <entry align="center"
+                                               colname="c4">Yes</entry>
+                                    </row>
+                                    <row>
+                                        <entry align="left"
+                                               colname="c1">
+                                            <ref:link service="document">
+                                                <ref:marker>GAS INDUSTRY (FURTHER AMENDMENT) ACT 1997</ref:marker>
+                                                <ref:locator anchorIdRef="VIC_ACT_1997-91">
+                                                    <ref:locatorKey>
+                                                        <ref:keyName name="DOC-ID" />
+                                                        <ref:keyValue value="" />
+                                                    </ref:locatorKey>
+                                                </ref:locator>
+                                            </ref:link>
+                                        </entry>
+                                        <entry align="left"
+                                               colname="c2">
+                                            <ref:link service="document">
+                                                <ref:marker>Sec 49</ref:marker>
+                                                <ref:locator anchorIdRef="VIC_ACT_1997-91_PROV49">
+                                                    <ref:locatorKey>
+                                                        <ref:keyName name="DOC-ID" />
+                                                        <ref:keyValue value="" />
+                                                    </ref:locatorKey>
+                                                </ref:locator>
+                                            </ref:link>
+                                        </entry>
+                                        <entry align="center"
+                                               colname="c3">
+                                            <date>
+                                                <dateText>11/12/1997</dateText>
+                                            </date>
+                                        </entry>
+                                        <entry align="center"
+                                               colname="c4">Yes</entry>
+                                    </row>
+                                </tbody>
+                            </tgroup>
+                        </table>
+                    </primlawhist:actionSummary>
+                </primlawhist:action>
+            </primlawhist:actionHistory>
+        </primlawhist:history>
+    </legis:hierarchyContent>
+    <doc:metadata documentContentCountry="AU">
+        <mncrdocmeta:chunkinfo>
+            <mncrdocmeta:lnlni lnlni="58X6-KXW1-F5KY-B3D8-00000-00" />
+            <mncrdocmeta:version version="00" />
+            <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+            <mncrdocmeta:collectioninfo>
+                <mncrdocmeta:collectionid rci="00" />
+                <mncrdocmeta:collectionhierarchy hierarchy="" />
+            </mncrdocmeta:collectioninfo>
+            <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                      sys-load-date="2023-09-18T08:03:47" />
+        </mncrdocmeta:chunkinfo>
+        <dc:metadata>
+            <dc:title>LawNow Legislative History</dc:title>
+            <dc:identifier meta:identifierScheme="DOC-ID">0065-VIC_ACT_10003_LEGHIST</dc:identifier>
+            <dc:identifier meta:identifierScheme="LNI">58X6-KXW1-F5KY-B3D8-00000-00</dc:identifier>
+            <dc:source meta:sourceScheme="productContentSetIdentifier">267884</dc:source>
+            <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+            <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+        </dc:metadata>
+        <currencyStatement>Consolidated as in force on <date>
+            <dateText>1 July 2007</dateText>
+        </date>
+    </currencyStatement>
+    <classify:classification classScheme="selector">
+        <classify:classItem>
+            <classify:classItemIdentifier>
+                <classify:className>act</classify:className>
+            </classify:classItemIdentifier>
+        </classify:classItem>
+    </classify:classification>
+    <classify:classification classScheme="lbu-subj">
+        <classify:classItem>
+            <classify:classItemIdentifier>
+                <classify:classCode normval="lawnow345" />
+            </classify:classItemIdentifier>
+        </classify:classItem>
+    </classify:classification>
+    <doc:sourceSequenceNumber sequenceType="bookOrder">693825956</doc:sourceSequenceNumber>
+    <doc:alternateRenditions>
+        <doc:alternateRendition key="fulltext">
+            <ref:link service="attachment">
+                <ref:marker role="label">PDF version of this Act</ref:marker>
+                <ref:locator>
+                    <ref:locatorKey>
+                        <ref:keyName name="attachment-key" />
+                        <ref:keyValue value="68YP-1RR1-JS0R-22XJ-00000-00-12638-VIC-ACT-10003" />
+                    </ref:locatorKey>
+                    <ref:locatorParameters>
+                        <proc:parameter name="componentseq"
+                                        value="1" />
+                        <proc:parameter name="attachment-type"
+                                        value="pdf" />
+                        <proc:parameter name="attachment-smi"
+                                        value="12638" />
+                    </ref:locatorParameters>
+                </ref:locator>
+            </ref:link>
+        </doc:alternateRendition>
+    </doc:alternateRenditions>
+    <doc:sourceDocumentInformation source="lbu-meta">
+        <metadata>
+            <metadataItem name="dpsi"
+                          value="0065" />
+            <metadataItem name="lbu-sourcename"
+                          value="LawNow Legislation Vic - - Legislation" />
+            <metadataItem name="split"
+                          value="true" />
+            <metadataItem name="parent-docid"
+                          value="VIC_ACT_10003" />
+            <metadataItem name="juris"
+                          value="VIC" />
+            <metadataItem name="legyear"
+                          value="" />
+            <metadataItem name="isrepealed"
+                          value="no" />
+            <metadataItem name="is_assents"
+                          value="no" />
+            <metadataItem name="assent_date"
+                          value="" />
+            <metadataItem name="is_commencements"
+                          value="no" />
+            <metadataItem name="is_current"
+                          value="yes" />
+            <metadataItem name="act_number"
+                          value="10003" />
+            <metadataItem name="subjectterm"
+                          value="345" />
+            <metadataItem name="legitemDocumentOrder"
+                          value="otherLegitemDocument" />
+        </metadata>
+    </doc:sourceDocumentInformation>
+</doc:metadata>
+</legis:hierarchy>
+<legis:hierarchy guid:guid="urn:contentItem:58X6-KXW1-F5KY-B3D9-00000-00"
+                 type="unclassified"
+                 xml:id="VIC_ACT_10003_DEFLIST">
+    <legis:hierarchyContent guid:guid="urn:contentItem:68VF-PD53-MB57-40B9-00000-00"
+                            xml:id="VIC_ACT_10003_DEFLISTCONTENT">
+        <legis:lawTextComponent type="definition">
+            <heading>
+                <title>
+                    <emphasis style="bold">List of Defined Terms</emphasis>
+                </title>
+            </heading>
+            <legis:body>
+                <p>
+                    <definitionList>
+                        <definitionItem>
+                            <definitionTerm>public authority</definitionTerm>
+                            <definitionDescription>
+                                <ref:link service="document">
+                                    <ref:marker>prov4sub1</ref:marker>
+                                    <ref:locator anchorIdRef="VIC_ACT_10003_PUBLICAUTHORITY">
+                                        <ref:locatorKey>
+                                            <ref:keyName name="DOC-ID" />
+                                            <ref:keyValue value="" />
+                                        </ref:locatorKey>
+                                    </ref:locator>
+                                </ref:link>
+                            </definitionDescription>
+                        </definitionItem>
+                        <definitionItem>
+                            <definitionTerm>public equity</definitionTerm>
+                            <definitionDescription>
+                                <ref:link service="document">
+                                    <ref:marker>prov4sub1</ref:marker>
+                                    <ref:locator anchorIdRef="VIC_ACT_10003_PUBLICEQUITY">
+                                        <ref:locatorKey>
+                                            <ref:keyName name="DOC-ID" />
+                                            <ref:keyValue value="" />
+                                        </ref:locatorKey>
+                                    </ref:locator>
+                                </ref:link>
+                            </definitionDescription>
+                        </definitionItem>
+                        <definitionItem>
+                            <definitionTerm>Treasurer</definitionTerm>
+                            <definitionDescription>
+                                <ref:link service="document">
+                                    <ref:marker>prov4sub1</ref:marker>
+                                    <ref:locator anchorIdRef="VIC_ACT_10003_TREASURER">
+                                        <ref:locatorKey>
+                                            <ref:keyName name="DOC-ID" />
+                                            <ref:keyValue value="" />
+                                        </ref:locatorKey>
+                                    </ref:locator>
+                                </ref:link>
+                            </definitionDescription>
+                        </definitionItem>
+                    </definitionList>
+                </p>
+            </legis:body>
+        </legis:lawTextComponent>
+    </legis:hierarchyContent>
+    <doc:metadata documentContentCountry="AU">
+        <mncrdocmeta:chunkinfo>
+            <mncrdocmeta:lnlni lnlni="58X6-KXW1-F5KY-B3D9-00000-00" />
+            <mncrdocmeta:version version="00" />
+            <mncrdocmeta:topchunk lnlni="58X6-KXW1-F5KY-B3D4-00000-00" />
+            <mncrdocmeta:collectioninfo>
+                <mncrdocmeta:collectionid rci="00" />
+                <mncrdocmeta:collectionhierarchy hierarchy="" />
+            </mncrdocmeta:collectioninfo>
+            <mncrdocmeta:chunkhistory sys-last-update="2023-09-18T08:03:47"
+                                      sys-load-date="2023-09-18T08:03:47" />
+        </mncrdocmeta:chunkinfo>
+        <dc:metadata>
+            <dc:title>List of Defined Terms</dc:title>
+            <dc:identifier meta:identifierScheme="DOC-ID">0065-VIC_ACT_10003_DEFLIST</dc:identifier>
+            <dc:identifier meta:identifierScheme="LNI">58X6-KXW1-F5KY-B3D9-00000-00</dc:identifier>
+            <dc:source meta:sourceScheme="productContentSetIdentifier">267884</dc:source>
+            <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+            <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+        </dc:metadata>
+        <currencyStatement>Consolidated as in force on <date>
+            <dateText>1 July 2007</dateText>
+        </date>
+    </currencyStatement>
+    <classify:classification classScheme="selector">
+        <classify:classItem>
+            <classify:classItemIdentifier>
+                <classify:className>act</classify:className>
+            </classify:classItemIdentifier>
+        </classify:classItem>
+    </classify:classification>
+    <classify:classification classScheme="lbu-subj">
+        <classify:classItem>
+            <classify:classItemIdentifier>
+                <classify:classCode normval="lawnow345" />
+            </classify:classItemIdentifier>
+        </classify:classItem>
+    </classify:classification>
+    <doc:sourceSequenceNumber sequenceType="bookOrder">693825957</doc:sourceSequenceNumber>
+    <doc:alternateRenditions>
+        <doc:alternateRendition key="fulltext">
+            <ref:link service="attachment">
+                <ref:marker role="label">PDF version of this Act</ref:marker>
+                <ref:locator>
+                    <ref:locatorKey>
+                        <ref:keyName name="attachment-key" />
+                        <ref:keyValue value="68YP-1RR1-JS0R-22XJ-00000-00-12638-VIC-ACT-10003" />
+                    </ref:locatorKey>
+                    <ref:locatorParameters>
+                        <proc:parameter name="componentseq"
+                                        value="1" />
+                        <proc:parameter name="attachment-type"
+                                        value="pdf" />
+                        <proc:parameter name="attachment-smi"
+                                        value="12638" />
+                    </ref:locatorParameters>
+                </ref:locator>
+            </ref:link>
+        </doc:alternateRendition>
+    </doc:alternateRenditions>
+    <doc:sourceDocumentInformation source="lbu-meta">
+        <metadata>
+            <metadataItem name="dpsi"
+                          value="0065" />
+            <metadataItem name="lbu-sourcename"
+                          value="LawNow Legislation Vic - - Legislation" />
+            <metadataItem name="split"
+                          value="true" />
+            <metadataItem name="parent-docid"
+                          value="VIC_ACT_10003" />
+            <metadataItem name="juris"
+                          value="VIC" />
+            <metadataItem name="legyear"
+                          value="" />
+            <metadataItem name="isrepealed"
+                          value="no" />
+            <metadataItem name="is_assents"
+                          value="no" />
+            <metadataItem name="assent_date"
+                          value="" />
+            <metadataItem name="is_commencements"
+                          value="no" />
+            <metadataItem name="is_current"
+                          value="yes" />
+            <metadataItem name="act_number"
+                          value="10003" />
+            <metadataItem name="subjectterm"
+                          value="345" />
+            <metadataItem name="legitemDocumentOrder"
+                          value="otherLegitemDocument" />
+        </metadata>
+    </doc:sourceDocumentInformation>
+</doc:metadata>
+</legis:hierarchy>
+</legis:hierarchyContent>
+</legis:hierarchy>
+</legis:content>
+<doc:metadata documentContentCountry="AU">
+    <dc:metadata>
+        <dc:title>PUBLIC AUTHORITIES (DIVIDENDS) ACT 1983</dc:title>
+        <dc:identifier meta:identifierScheme="DOC-ID">0065-VIC_ACT_10003_LEG_INFO</dc:identifier>
+        <dc:identifier meta:identifierScheme="LNI">58X6-KXW1-F5KY-B3D4-00000-00</dc:identifier>
+        <dc:source meta:sourceScheme="productContentSetIdentifier">187785</dc:source>
+        <dc:source meta:sourceScheme="suppliedContentSetIdentifier">10569</dc:source>
+        <dc:date meta:dateType="conversion-date">2023-09-18</dc:date>
+    </dc:metadata>
+    <currencyStatement>Consolidated as in force on <date>
+        <dateText>1 July 2007</dateText>
+    </date>
+</currencyStatement>
+<classify:classification classScheme="selector">
+    <classify:classItem>
+        <classify:classItemIdentifier>
+            <classify:className>act</classify:className>
+        </classify:classItemIdentifier>
+    </classify:classItem>
+</classify:classification>
+<classify:classification classScheme="lbu-subj">
+    <classify:classItem>
+        <classify:classItemIdentifier>
+            <classify:classCode normval="lawnow345" />
+        </classify:classItemIdentifier>
+    </classify:classItem>
+</classify:classification>
+<doc:sourceSequenceNumber sequenceType="bookOrder">693825952</doc:sourceSequenceNumber>
+<doc:alternateRenditions>
+    <doc:alternateRendition>
+        <ref:link service="url">
+            <ref:marker>Government Website</ref:marker>
+            <ref:locator>
+                <ref:locatorKey>
+                    <ref:keyName name="URL" />
+                    <ref:keyValue value="https://www.legislation.vic.gov.au/as-made/acts" />
+                </ref:locatorKey>
+            </ref:locator>
+        </ref:link>
+    </doc:alternateRendition>
+</doc:alternateRenditions>
+<doc:alternateRenditions>
+    <doc:alternateRendition key="fulltext">
+        <ref:link service="attachment">
+            <ref:marker role="label">PDF version of this Act</ref:marker>
+            <ref:locator>
+                <ref:locatorKey>
+                    <ref:keyName name="attachment-key" />
+                    <ref:keyValue value="68YP-1RR1-JS0R-22XJ-00000-00-12638-VIC-ACT-10003" />
+                </ref:locatorKey>
+                <ref:locatorParameters>
+                    <proc:parameter name="componentseq"
+                                    value="1" />
+                    <proc:parameter name="attachment-type"
+                                    value="pdf" />
+                    <proc:parameter name="attachment-smi"
+                                    value="12638" />
+                </ref:locatorParameters>
+            </ref:locator>
+        </ref:link>
+    </doc:alternateRendition>
+</doc:alternateRenditions>
+<doc:sourceDocumentInformation source="lbu-meta">
+    <metadata>
+        <metadataItem name="dpsi"
+                      value="0065" />
+        <metadataItem name="lbu-sourcename"
+                      value="LawNow Legislation Vic - - Legislation" />
+        <metadataItem name="split"
+                      value="true" />
+        <metadataItem name="parent-docid"
+                      value="VIC_ACT_10003" />
+        <metadataItem name="juris"
+                      value="VIC" />
+        <metadataItem name="legyear"
+                      value="" />
+        <metadataItem name="isrepealed"
+                      value="no" />
+        <metadataItem name="is_assents"
+                      value="no" />
+        <metadataItem name="assent_date"
+                      value="" />
+        <metadataItem name="is_commencements"
+                      value="no" />
+        <metadataItem name="is_current"
+                      value="yes" />
+        <metadataItem name="act_number"
+                      value="10003" />
+        <metadataItem name="subjectterm"
+                      value="345" />
+        <metadataItem name="legitemDocumentOrder"
+                      value="firstLegitemDocument" />
+    </metadata>
+</doc:sourceDocumentInformation>
+</doc:metadata>
+</legis:legislation>
